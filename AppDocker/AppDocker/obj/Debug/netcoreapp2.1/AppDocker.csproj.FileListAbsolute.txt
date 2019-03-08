@@ -1,0 +1,14 @@
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\bin\Debug\netcoreapp2.1\AppDocker.deps.json
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\bin\Debug\netcoreapp2.1\AppDocker.runtimeconfig.json
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\bin\Debug\netcoreapp2.1\AppDocker.runtimeconfig.dev.json
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\bin\Debug\netcoreapp2.1\AppDocker.dll
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\bin\Debug\netcoreapp2.1\AppDocker.pdb
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.csprojAssemblyReference.cache
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.RazorAssemblyInfo.cache
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.RazorAssemblyInfo.cs
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.AssemblyInfoInputs.cache
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.AssemblyInfo.cs
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.RazorTargetAssemblyInfo.cache
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.dll
+C:\Users\AlumnoMCSD\source\repos\AppDocker\AppDocker\obj\Debug\netcoreapp2.1\AppDocker.pdb
